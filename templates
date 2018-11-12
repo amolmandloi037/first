@@ -1,0 +1,28 @@
+DCOS Cluster builder Cloud Formation Templates:
+
+** 1.09
+Permissive :
+https://s3.amazonaws.com/downloads.mesosphere.io/dcos-enterprise/stable/1.9.1/cloudformation/ee.single-master.cloudformation.json
+Strict :
+http://s3.amazonaws.com/downloads.mesosphere.io/dcos-enterprise-aws-advanced/testing/1.9.0/strict/cloudformation/ee.single-master.cloudformation.json
+
+** 1.10
+Permissive : 
+https://s3-us-west-2.amazonaws.com/mesos-dcos-cf-1/ee.single-master.cloudformation.json
+Strict :
+https://s3-eu-west-1.amazonaws.com/cf-template-1.10.4-strict-mode/ee.single-master.cloudformation.json
+  
+** 1.11.0
+Permissive :
+https://s3.amazonaws.com/downloads.mesosphere.io/dcos-enterprise/stable/1.11.0/cloudformation/ee.single-master.cloudformation.json
+
+** 1.11.2
+Permissive :
+https://s3.amazonaws.com/downloads.mesosphere.io/dcos-enterprise/stable/1.11.2/cloudformation/ee.single-master.cloudformation.json
+
+** 1.11.4
+Permissive :
+https://s3.amazonaws.com/downloads.mesosphere.io/dcos-enterprise/stable/1.11.4/cloudformation/ee.single-master.cloudformation.json
+
+
+
